@@ -1,0 +1,76 @@
+*,
+[data-bs-theme=dark] {
+    color-scheme: dark;
+    --bs-body-color: rgb(222, 226, 230);
+    --bs-body-color-rgb: rgb(222, 226, 230);
+    --bs-body-bg: rgb(33, 37, 41);
+    --bs-body-bg-rgb: rgb(33, 37, 41);
+    --bs-emphasis-color: rgb(255, 255, 255);
+    --bs-emphasis-color-rgb: rgb(255, 255, 255);
+    --bs-secondary-color: rgba(222, 226, 230, 0.75);
+    --bs-secondary-color-rgb: rgb(222, 226, 230);
+    --bs-secondary-bg: rgb(52, 58, 64);
+    --bs-secondary-bg-rgb: rgb(52, 58, 64);
+    --bs-tertiary-color: rgba(222, 226, 230, 0.5);
+    --bs-tertiary-color-rgb: rgb(222, 226, 230);
+    --bs-tertiary-bg: rgb(43, 48, 53);
+    --bs-tertiary-bg-rgb: rgb(43, 48, 53);
+    --bs-primary-text-emphasis: rgb(110, 168, 254);
+    --bs-secondary-text-emphasis: rgb(167, 172, 177);
+    --bs-success-text-emphasis: rgb(117, 183, 152);
+    --bs-info-text-emphasis: rgb(110, 223, 246);
+    --bs-warning-text-emphasis: rgb(255, 218, 106);
+    --bs-danger-text-emphasis: rgb(234, 134, 143);
+    --bs-light-text-emphasis: rgb(248, 249, 250);
+    --bs-dark-text-emphasis: rgb(222, 226, 230);
+    --bs-primary-bg-subtle: rgb(3, 22, 51);
+    --bs-secondary-bg-subtle: rgb(22, 23, 25);
+    --bs-success-bg-subtle: rgb(5, 27, 17);
+    --bs-info-bg-subtle: rgb(3, 40, 48);
+    --bs-warning-bg-subtle: rgb(51, 39, 1);
+    --bs-danger-bg-subtle: rgb(44, 11, 14);
+    --bs-light-bg-subtle: rgb(52, 58, 64);
+    --bs-dark-bg-subtle: rgb(26, 29, 32);
+    --bs-primary-border-subtle: rgb(8, 66, 152);
+    --bs-secondary-border-subtle: rgb(65, 70, 75);
+    --bs-success-border-subtle: rgb(15, 81, 50);
+    --bs-info-border-subtle: rgb(8, 121, 144);
+    --bs-warning-border-subtle: rgb(153, 116, 4);
+    --bs-danger-border-subtle: rgb(132, 32, 41);
+    --bs-light-border-subtle: rgb(73, 80, 87);
+    --bs-dark-border-subtle: rgb(52, 58, 64);
+    --bs-heading-color: inherit;
+    --bs-link-color: rgb(110, 168, 254);
+    --bs-link-hover-color: rgb(139, 185, 254);
+    --bs-link-color-rgb: rgb(110, 168, 254);
+    --bs-link-hover-color-rgb: rgb(139, 185, 254);
+    --bs-code-color: rgb(230, 133, 181);
+    --bs-highlight-color: rgb(222, 226, 230);
+    --bs-highlight-bg: rgb(102, 77, 3);
+    --bs-border-color: rgb(73, 80, 87);
+    --bs-border-color-translucent: rgba(255, 255, 255, 0.15);
+    --bs-form-valid-color: rgb(117, 183, 152);
+    --bs-form-valid-border-color: rgb(117, 183, 152);
+    --bs-form-invalid-color: rgb(234, 134, 143);
+    --bs-form-invalid-border-color: rgb(234, 134, 143);
+}
+
+.source {
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+#btn_add {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 100%;
+}
+
+tr {
+    text-align: center;
+}
+
+.btn {
+    margin-right: 10px;
+}
