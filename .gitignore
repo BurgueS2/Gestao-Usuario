@@ -1,0 +1,7 @@
+venv
+*.pyc
+__pycache__
+customerManager.db
+.env
+Procfile
+customerManager.db
